@@ -2,4 +2,5 @@ This repository provides a pretrained YOLO (You Only Look Once) model specifical
 
 
 Install requirements via
-pip install -r requirements.txt
+
+'pip install -r requirements.txt'
